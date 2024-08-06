@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147420414320",
+    "project_id": "alo-wall-maker",
+    "storage_bucket": "alo-wall-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147420414320:android:9dc7c6ae83698714be8fb5",
+        "android_client_info": {
+          "package_name": "com.x10.photo.maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147420414320-0f42m93q1nl791gqrp79jcmlk3fjll9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_nz8KEZpezGQIKJJuRno91FUaq0PrqTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147420414320-0f42m93q1nl791gqrp79jcmlk3fjll9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

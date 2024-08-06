@@ -1,0 +1,210 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": "1",
+        "name": "Happy Mother's Day",
+        "url": "23_Template/02_20230308/Walla230307001.mp4",
+        "thumbUrlImg": "23_Template/02_20230308/thumbs/Walla230307001.jpg",
+        "thumbUrlVideo": "23_Template/02_20230308/thumbs/Walla230307001.mp4",
+        "script": [
+          {
+            "index": 0,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 600
+          },
+          {
+            "index": 0,
+            "segmentType": "MOVE_TRANSITION_VERTICAL_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 1,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 1,
+            "segmentType": "MOVE_TRANSITION_HORIZONTAL_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 2,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 2,
+            "segmentType": "WINDOW_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 3,
+            "segmentType": "FIT_CENTER_SCALE_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 3,
+            "segmentType": "GRADIENT_TRANSFER_SEGMENT",
+            "duration": 2000
+          }
+        ],
+        "colorId": null,
+        "colorCode": "#9b7e72",
+        "type": "templateItem"
+      },
+      {
+        "id": "2",
+        "name": "The Best Dad",
+        "url": "23_Template/02_20230308/Walla230307002.mp4",
+        "thumbUrlImg": "23_Template/02_20230308/thumbs/Walla230307002.jpg",
+        "thumbUrlVideo": "23_Template/02_20230308/thumbs/Walla230307002.mp4",
+        "script": [
+          {
+            "index": 0,
+            "segmentType": "SCALE_TRANS_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 1,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 1,
+            "segmentType": "MOVE_TRANSITION_VERTICAL_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 1,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1000
+          },
+          {
+            "index": 2,
+            "segmentType": "SCALE_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 3,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 3,
+            "segmentType": "MOVE_TRANSITION_HORIZONTAL_SEGMENT",
+            "duration": 2000
+          }
+        ],
+        "colorId": null,
+        "colorCode": "#c6ab99",
+        "type": "templateItem"
+      },
+      {
+        "id": "4",
+        "name": "Family Fun Day",
+        "url": "23_Template/02_20230308/Walla230307004.mp4",
+        "thumbUrlImg": "23_Template/02_20230308/thumbs/Walla230307004.jpg",
+        "thumbUrlVideo": "23_Template/02_20230308/thumbs/Walla230307004.mp4",
+        "script": [
+          {
+            "index": 0,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 0,
+            "segmentType": "MOVE_TRANSITION_HORIZONTAL_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 1,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 1,
+            "segmentType": "SCALE_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 2,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 2,
+            "segmentType": "MOVE_TRANSITION_HORIZONTAL_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 3,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 3,
+            "segmentType": "MOVE_TRANSITION_VERTICAL_SEGMENT",
+            "duration": 2000
+          }
+        ],
+        "colorId": null,
+        "colorCode": "#897069",
+        "type": "templateItem"
+      },
+      {
+        "id": "5",
+        "name": "Grandparent's Love",
+        "url": "23_Template/02_20230308/Walla230307005.mp4",
+        "thumbUrlImg": "23_Template/02_20230308/thumbs/Walla230307005.jpg",
+        "thumbUrlVideo": "23_Template/02_20230308/thumbs/Walla230307005.mp4",
+        "script": [
+          {
+            "index": 0,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 0,
+            "segmentType": "MOVE_TRANSITION_VERTICAL_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 1,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 1,
+            "segmentType": "MOVE_TRANSITION_VERTICAL_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 2,
+            "segmentType": "FIT_CENTER_SEGMENT",
+            "duration": 1500
+          },
+          {
+            "index": 2,
+            "segmentType": "WINDOW_SEGMENT",
+            "duration": 2000
+          },
+          {
+            "index": 3,
+            "segmentType": "SCALE_SEGMENT",
+            "duration": 2000
+          }
+        ],
+        "colorId": null,
+        "colorCode": "#857071",
+        "type": "templateItem"
+      }
+    ],
+    "nextPageNumber": 2,
+    "currentPageNumber": 1
+  },
+  "status": {
+    "statusCode": 200,
+    "message": "Success"
+  }
+}

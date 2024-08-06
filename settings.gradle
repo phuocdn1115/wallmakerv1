@@ -1,0 +1,5 @@
+rootProject.name = "wallpapermaker"
+include ':app', ':render-movie'
+include ':wall-exoplayer'
+include ':exoplayer-core'
+include ':maker-tracking'
